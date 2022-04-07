@@ -1,0 +1,323 @@
+{
+    "m_SelectedDeviceId": "09d807c7",
+    "m_SelectedPackage": {
+        "deviceId": "09d807c7",
+        "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+        "processId": 18748,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 8282,
+            "exited": true
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 27372,
+            "exited": true
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 28642,
+            "exited": true
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 29021,
+            "exited": true
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 29704,
+            "exited": true
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 13384,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 20704,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 6578,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 7334,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 7756,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 8240,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 23436,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 24354,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 24954,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 26000,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 26842,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 14272,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 15002,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 15436,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 16035,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 16557,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 10851,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 11581,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 12105,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 14117,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 26843,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 17877,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 19256,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 19828,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 26506,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 5245,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 6091,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 6954,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 7818,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 9177,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 9810,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 13519,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 23723,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 31589,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 32175,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 1139,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 2192,
+            "exited": false
+        },
+        {
+            "deviceId": "09d807c7",
+            "name": "com.DefaultCompany.UnityAndroidLibraryTest",
+            "processId": 18748,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "True",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
